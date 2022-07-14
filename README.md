@@ -7,6 +7,14 @@ UPDATE TO RELEASE 1.0 SOON!! 🤡
 
 
 
+🟢 Release up to date
+ 
+🟠 Unofficial Releases (Like, up to date version is 3.91, this means release 3.92 is not official)
+
+🟣 Supported Releases out of date
+
+🔴 Unsupported Releases out of date
+
 # About Project
 .                                                                         
 
