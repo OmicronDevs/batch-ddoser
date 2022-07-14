@@ -1,5 +1,9 @@
 # ⚠️ THIS IS PRE-RELEASE! ⚠️
-I ALEREADY HAVE FINISHED IT (With colors, more functions, stronger or custom pings, DDoS power and things like this), BUT I AM CHANGING MY PC's DRIVES, SO I CAN'T UPLOAD IT. PLEASE WATCH THIS REPOSITORY AND STAR IT, UPDATE TO RELEASE 1.0 SOON!! 🤡
+**Q:** Why the Dooser looks too *ugly* (no design)?
+
+**A:** I ALEREADY HAVE FINISHED IT (With colors, more functions, stronger or custom pings, DDoS power and things like this), BUT I AM CHANGING MY PC's DRIVES, SO I CAN'T UPLOAD IT. PLEASE WATCH THIS REPOSITORY AND STAR IT!
+
+UPDATE TO RELEASE 1.0 SOON!! 🤡
 
 
 
