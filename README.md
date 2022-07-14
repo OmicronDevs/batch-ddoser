@@ -1,15 +1,25 @@
-~ What ~>
+# About Project
+
+**What**
+
 **batch-ddoser** is Simple DDoSer written in batch. We named it **Dooser**.
 
-~ Who ~>
+.
+
+**Who**
+
 *zscopuv coded functions, name and design*
 
-~ Why ~>
+.
+
+**Why** 
+
 As We said, Our projects are also for Educational Purposes.
 
-~ Disclaimer ~>
-Can be found here: https://dooser.zscopuv.tk
+.
 
+### Disclaimer
+https://dooser.zscopuv.tk
 
-## ISSUES?
+### ISSUES?
 https://github.com/OmicronDevs/batch-ddoser/issues/new
