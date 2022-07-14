@@ -9,3 +9,7 @@ As We said, Our projects are also for Educational Purposes.
 
 ~ Disclaimer ~>
 Can be found here: https://dooser.zscopuv.tk
+
+
+## ISSUES?
+https://github.com/OmicronDevs/batch-ddoser/issues/new
