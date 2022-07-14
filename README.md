@@ -9,7 +9,7 @@
 
 **Who**
 
-*zscopuv coded functions, name and design*
+*zscopuv coded functions and made name*
 
 .
 
