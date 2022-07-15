@@ -1,4 +1,4 @@
-# THIS IS RELEASE 1
+# RELEASE 1
 ` 🟠 This release will be up to date on 16.07.2022`
 
 
