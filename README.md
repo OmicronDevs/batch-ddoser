@@ -1,4 +1,4 @@
-# ⚠️ THIS IS PRE-RELEASE! ⚠️
+# PRE-RELEASE!
 
 `🟢 This release is up to date`
 
