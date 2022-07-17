@@ -1,5 +1,5 @@
 # RELEASE 1
-` 🟠 This release is up to date`
+` 🟢 This release is up to date`
 
 
 ```
