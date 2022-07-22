@@ -1,4 +1,4 @@
-# 💻ˇBatch DDoSer - Dooser
+# 💻Batch DDoSer - Dooser
 
 Updated release <a href="https://github.com/OmicronDevs/batch-ddoser/tree/release-1">here</a>
 
