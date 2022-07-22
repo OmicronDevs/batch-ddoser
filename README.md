@@ -2,7 +2,7 @@
 
 `🔴 This Release is out of date`
 
-Updated release <a href="https://github.com/OmicronDevs/batch-ddoser/branches/all">here</a>
+Updated release <a href="https://github.com/OmicronDevs/batch-ddoser/tree/release-1">here</a>
 
 ```
 🟢 Release up to date
