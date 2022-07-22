@@ -1,8 +1,11 @@
+# 💻ˇBatch DDoSer - Dooser
+
+Updated release <a href="https://github.com/OmicronDevs/batch-ddoser/tree/release-1">here</a>
+
+
 # PRE-RELEASE!
 
 `🔴 This Release is out of date`
-
-Updated release <a href="https://github.com/OmicronDevs/batch-ddoser/tree/release-1">here</a>
 
 ```
 🟢 Release up to date
